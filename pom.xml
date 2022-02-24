@@ -1,5 +1,8 @@
 extensions mark-up language
 html : hyper-text mark-up language
+<<<<<<< HEAD
 TAGS
+=======
+>>>>>>> Dev
 buildscript
 
